@@ -6,8 +6,10 @@
 1. Implement Font-End For jtl(CMS) Plugins.
 2. Implement Font-End For jtl(CMS) Templates.
 3. Implement Font-End Templates Using Vue.js.
-4. Integrate With Bach-End API
-5. Implement UI/UX Design For Templates And Plugins
+4. Integrate With Bach-End API.
+5. Implement UI/UX Design For Templates And Plugins.
+6. Develop Functional And Appealing Web And Mobile Sites And Applications With a Focus on Usability.
+7. Provide Website Mainteenance And Enhancements.
 
 # 📝 Projects
 
