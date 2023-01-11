@@ -3,11 +3,11 @@
 **From 1/11/2021 - present**
 
 ## 💻Job Roles:
-1-Lorem Ipsum is simply dummy text of the printing and typesetting industry
-2-Lorem Ipsum is simply dummy text of the printing and typesetting industry
-3-Lorem Ipsum is simply dummy text of the printing and typesetting industry
-4-Lorem Ipsum is simply dummy text of the printing and typesetting industry
-5-Lorem Ipsum is simply dummy text of the printing and typesetting industry
+1.Lorem Ipsum is simply dummy text of the printing and typesetting industry
+2.Lorem Ipsum is simply dummy text of the printing and typesetting industry
+3.Lorem Ipsum is simply dummy text of the printing and typesetting industry
+4.Lorem Ipsum is simply dummy text of the printing and typesetting industry
+5.Lorem Ipsum is simply dummy text of the printing and typesetting industry
 
 ## 📝 Projects
 
