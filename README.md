@@ -11,13 +11,13 @@
 6. Develop Functional And Appealing Web And Mobile Sites And Applications With a Focus on Usability.
 7. Provide Website Mainteenance And Enhancements.
 
+# 📝 Projects
+
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">📝 Projects</h1></summary>
+    <summary><h2 style="display: inline-block;">📝 Plugins:</h2></summary>
   </ul>
 </div>
-
-## Plugins:
 
 ### [appointments](http://appointments.dev.tecsee.de/)
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry
