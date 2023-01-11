@@ -37,7 +37,7 @@
 - html, css, sass, bootstrap, php smarty and js.
 
 
-### [🎯 car rental](https://car-rental.dev.tecsee.de/vermietung)
+### [🎯 car rental](https://test-car-rental.dev.tecsee.de/rental)
 
 **description**
 - Tecsee Car Rental is a JTL plug-in used to create a vehicle rental booking system.
