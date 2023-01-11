@@ -12,6 +12,11 @@
 7. Provide Website Mainteenance And Enhancements.
 
 # 📝 Projects
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">📝 Projects</h1></summary>
+  </ul>
+</div>
 
 ## Plugins:
 
