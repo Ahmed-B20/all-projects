@@ -9,9 +9,9 @@
 4. Lorem Ipsum is simply dummy text of the printing and typesetting industry
 5. Lorem Ipsum is simply dummy text of the printing and typesetting industry
 
-## 📝 Projects
+# 📝 Projects
 
-**Plugins:**
+## Plugins:
 
 ### [appointments](http://appointments.dev.tecsee.de/)
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry
@@ -49,7 +49,7 @@
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry
 
-**Templates:**
+## Templates:
 
 ### [cars-e-commerce](https://cars-e-commerce.dev.tecsee.de/)
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry
