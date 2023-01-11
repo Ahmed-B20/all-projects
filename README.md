@@ -32,8 +32,13 @@
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry
 
 ### [hotel-booking](https://hotel-booking-system.dev.tecsee.de/)
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
+** description **
+- TecseeHotelBooking is a JTL plugin used to create a booking system for hotel rooms, reservations and rentals. 
+- Simply set your services or products and have them displayed in no time at all when they are available. 
+- In this way you remain available for your customers or guests around the clock and also make bookings possible outside of business hours.
+
+** front-end technologies **
+- html, css, sass, bootstrap, php smarty and js.
 
 ### [partners](https://partners.dev.tecsee.de/)
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry
