@@ -3,11 +3,11 @@
 **From 1/11/2021 - present**
 
 ## 💻 Job Roles:
-1. Lorem Ipsum is simply dummy text of the printing and typesetting industry
-2. Lorem Ipsum is simply dummy text of the printing and typesetting industry
-3. Lorem Ipsum is simply dummy text of the printing and typesetting industry
-4. Lorem Ipsum is simply dummy text of the printing and typesetting industry
-5. Lorem Ipsum is simply dummy text of the printing and typesetting industry
+1. Implement Font-End For jtl(CMS) Plugins.
+2. Implement Font-End For jtl(CMS) Templates.
+3. Implement Font-End Templates Using Vue.js.
+4. Integrate With Bach-End API
+5. Implement UI/UX Design For Templates And Plugins
 
 # 📝 Projects
 
