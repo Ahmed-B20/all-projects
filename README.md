@@ -11,7 +11,6 @@
 6. Develop Functional And Appealing Web And Mobile Sites And Applications With a Focus on Usability.
 7. Provide Website Mainteenance And Enhancements.
 
-# 📝 Projects
 <div id="user-content-toc">
   <ul>
     <summary><h1 style="display: inline-block;">📝 Projects</h1></summary>
