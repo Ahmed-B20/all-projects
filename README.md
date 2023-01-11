@@ -42,7 +42,7 @@
 
 6-[sport-e-commerce](https://sport-e-commerce.dev.tecsee.de/)
 
-7-[stationary-e-commerce])(http://stationary-e-commerce.dev.tecsee.de/)
+7-[stationary-e-commerce](http://stationary-e-commerce.dev.tecsee.de/)
 
 8-[template8](https://template8.wawihost.de/)
 
