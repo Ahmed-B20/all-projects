@@ -20,7 +20,7 @@
   </ul>
 </div>
 
-### [subscription](https://laravel.dev.tecsee.de/)
+### [🎯 subscription](https://laravel.dev.tecsee.de/)
 
 **description**
 - this plugin will allow you to sell subscriptions products..
@@ -37,7 +37,7 @@
 - html, css, sass, bootstrap, php smarty and js.
 
 
-### [car rental](https://car-rental.dev.tecsee.de/vermietung)
+### [🎯 car rental](https://car-rental.dev.tecsee.de/vermietung)
 
 **description**
 - Tecsee Car Rental is a JTL plug-in used to create a vehicle rental booking system.
@@ -50,7 +50,7 @@
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [gift](https://gift.dev.tecsee.de/)
+### [🎯 gift](https://gift.dev.tecsee.de/)
 
 **description**
 - TecseeHotelBooking is a JTL plugin used to create a products gift system for online shop.
@@ -62,7 +62,7 @@
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [hotel booking](https://hotel-booking-system.dev.tecsee.de/)
+### [🎯 hotel booking](https://hotel-booking-system.dev.tecsee.de/)
 
 **description**
 - TecseeHotelBooking is a JTL plugin used to create a booking system for hotel rooms, reservations and rentals.
@@ -74,7 +74,7 @@
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [partners](https://partners.dev.tecsee.de/)
+### [🎯 partners](https://partners.dev.tecsee.de/)
 
 **description**
 - TecseePartners plug-in you can create, change and delete your partners in the backend as often as you like.
@@ -88,7 +88,7 @@
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [appointments](http://appointments.dev.tecsee.de/)
+### [🎯 appointments](http://appointments.dev.tecsee.de/)
 
 **description**
 - TecseeAppointments is a JTL Shop Plugin used to create a booking system for on-site appointment bookings.
@@ -103,7 +103,7 @@
 
 
 
-### [booking courses](https://test-booking-courses.dev.tecsee.de/)
+### [🎯 booking courses](https://test-booking-courses.dev.tecsee.de/)
 
 **description**
 - TecseeBooking is a JTL plug-in used to create a booking system for services, reservations and rentals.
@@ -115,7 +115,7 @@
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [feature finder](https://test-merkmal-finder.dev.tecsee.de/)
+### [🎯 feature finder](https://test-merkmal-finder.dev.tecsee.de/)
 
 **description**
 - feature finder offer a direct search function for features in your shop.
@@ -131,7 +131,7 @@
 - html, css, sass, bootstrap, php smarty and js.
 
 
-### [workers](https://workers.dev.tecsee.de/)
+### [🎯 workers](https://workers.dev.tecsee.de/)
 
 **description**
 - TecseeWorkers is a JTL Shop Plugin used to create a booking system for on-site jobs bookings.
@@ -144,7 +144,7 @@
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [Calendar](https://laravel.dev.tecsee.de/)
+### [🎯 Calendar](https://laravel.dev.tecsee.de/)
 
 **description**
 - Create, manage and share your events easily.
@@ -163,11 +163,11 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block;">🎯 Templates:</h2></summary>
+    <summary><h2 style="display: inline-block;">⚙ Templates:</h2></summary>
   </ul>
 </div>
 
-### [cars e-commerce](https://cars-e-commerce.dev.tecsee.de/)
+### [🎯 cars e-commerce](https://cars-e-commerce.dev.tecsee.de/)
 
 **description**
 - "cars-e-commerce" is a modern and clear template for cars and cars tools online shop for, which is equally suitable for all industries.
@@ -179,7 +179,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [home e-commerce](https://home-e-commerce.dev.tecsee.de/)
+### [🎯 home e-commerce](https://home-e-commerce.dev.tecsee.de/)
 
 **description**
 - "home-e-commerce" is a modern and clear template for home tools online shop for, which is equally suitable for all industries.
@@ -191,7 +191,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [sports](http://sports.dev.tecsee.de/)
+### [🎯 sports](http://sports.dev.tecsee.de/)
 
 **description**
 
@@ -206,7 +206,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 
 - html, css, sass, bootstrap, php smarty and js.
 
-### [Cartons e-commerce](http://kartons-temp.dev.tecsee.de/)
+### [🎯 Cartons e-commerce](http://kartons-temp.dev.tecsee.de/)
 
 **description**
 - "Cartons-e-commerce" is a modern and clear template for Cartons online shop for, which is equally suitable for all industries.
@@ -218,7 +218,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [chairs e-commerce](https://shopware-home-theme.dev.tecsee.de/)
+### [🎯 chairs e-commerce](https://shopware-home-theme.dev.tecsee.de/)
 
 **description**
 - "furniture-e-commerce" is a modern and clear template for furniture online shop for shopware, which is equally suitable for all industries.
@@ -230,7 +230,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [sport e-commerce](https://sport-e-commerce.dev.tecsee.de/)
+### [🎯 sport e-commerce](https://sport-e-commerce.dev.tecsee.de/)
 
 **description**
 - "sport-e-commerce" is a modern and clear template for sports tools online shop, which is equally suitable for all industries.
@@ -242,7 +242,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [stationary e-commerce](http://stationary-e-commerce.dev.tecsee.de/)
+### [🎯 stationary e-commerce](http://stationary-e-commerce.dev.tecsee.de/)
 
 **description**
 - "stationary-e-commerce" is a modern and clear template for stationary online shop, which is equally suitable for all industries.
@@ -254,7 +254,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [shoes e-commerce](https://template8.wawihost.de/)
+### [🎯 shoes e-commerce](https://template8.wawihost.de/)
 
 **description**
 - "shoes" is a modern and clear template for shoes online shop, which is equally suitable for all industries.
@@ -266,7 +266,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [furniture e-commerce](https://template7.wawihost.de/)
+### [🎯 furniture e-commerce](https://template7.wawihost.de/)
 
 **description**
 - "furniture" is a modern and clear template for furniture online shop, which is equally suitable for all industries.
@@ -278,7 +278,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [ceramic](https://radany.de/)
+### [🎯 ceramic](https://radany.de/)
 
 **description**
 - "ceramic" is a modern and clear template for ceramic online shop, which is equally suitable for all industries.
