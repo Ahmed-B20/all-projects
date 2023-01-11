@@ -15,7 +15,7 @@
 
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block;">📝 Plugins:</h2></summary>
+    <summary><h2 style="display: inline-block;">🚧 Plugins:</h2></summary>
   </ul>
 </div>
 
@@ -55,7 +55,11 @@
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry
 
-## Templates:
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block;">🎯 Templates:</h2></summary>
+  </ul>
+</div>
 
 ### [cars-e-commerce](https://cars-e-commerce.dev.tecsee.de/)
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry
