@@ -20,45 +20,131 @@
 </div>
 
 ### [appointments](http://appointments.dev.tecsee.de/)
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
+**description**
+- TecseeAppointments is a JTL Shop Plugin used to create a booking system for on-site appointment bookings. 
+- Simply set your opening hours and have it displayed in no time at all when these are available for appointment bookings. 
+
+**roles**
+- create admin panel ui/ux, structure and functionality for all taps.
+- create website ui/ux, structure and functionality for all pages.
+
+**front-end technologies**
+- html, css, sass, bootstrap, php smarty and js.
 
 ### [car-rental](https://car-rental.dev.tecsee.de/vermietung)
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
+**description**
+- Tecsee Car Rental is a JTL plug-in used to create a vehicle rental booking system. 
+- Simply schedule your vehicles and see when they're available in no time.
+
+**roles**
+- create admin panel ui/ux, structure and functionality for all taps.
+- create website ui/ux, structure and functionality for all pages.
+
+**front-end technologies**
+- html, css, sass, bootstrap, php smarty and js.
 
 ### [gift](https://gift.dev.tecsee.de/)
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
+**description**
+- TecseeHotelBooking is a JTL plugin used to create a products gift system for online shop.
+
+**roles**
+- create admin panel ui/ux, structure and functionality for all taps.
+- create website ui/ux, structure and functionality for all pages.
+
+**front-end technologies**
+- html, css, sass, bootstrap, php smarty and js.
 
 ### [hotel-booking](https://hotel-booking-system.dev.tecsee.de/)
 **description**
-- TecseeHotelBooking is a JTL plugin used to create a booking system for hotel rooms, reservations and rentals. 
-- Simply set your services or products and have them displayed in no time at all when they are available. 
-- In this way you remain available for your customers or guests around the clock and also make bookings possible outside of business hours.
+- TecseeHotelBooking is a JTL plugin used to create a booking system for hotel rooms, reservations and rentals.
+
+**roles**
+- create admin panel ui/ux, structure and functionality for all taps.
+- create website ui/ux, structure and functionality for all pages.
 
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
 ### [partners](https://partners.dev.tecsee.de/)
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
+**description**
+- TecseePartners plug-in you can create, change and delete your partners in the backend as often as you like. 
+- Using the integrated partner creation form, you can quickly add and update your partners.
+- improve your online presence and draw attention to your business partners.
+
+**roles**
+- create admin panel ui/ux, structure and functionality for all taps.
+- create website ui/ux, structure and functionality for all pages.
+
+**front-end technologies**
+- html, css, sass, bootstrap, php smarty and js.
 
 ### [booking-courses](https://test-booking-courses.dev.tecsee.de/)
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
+**description**
+- TecseeBooking is a JTL plug-in used to create a booking system for services, reservations and rentals.
+
+**roles**
+- create admin panel ui/ux, structure and functionality for all taps.
+- create website ui/ux, structure and functionality for all pages.
+
+**front-end technologies**
+- html, css, sass, bootstrap, php smarty and js.
 
 ### [merkmal-finder](https://test-merkmal-finder.dev.tecsee.de/)
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
+**description**
+- feature finder offer a direct search function for features in your shop. 
+- customers can find your products better and more specifically. 
+- the search function to search for and find your products based on characteristics.
+- JTL shop plug-in that is used to search for previously created features in the Wawi, such as the brand or the year of creation.
+
+**roles**
+- create admin panel ui/ux, structure and functionality for all taps.
+- create website ui/ux, structure and functionality for all pages.
+
+**front-end technologies**
+- html, css, sass, bootstrap, php smarty and js.
 
 ### [workers](https://workers.dev.tecsee.de/)
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
+**description**
+- TecseeWorkers is a JTL Shop Plugin used to create a booking system for on-site jobs bookings. 
+- Simply set your opening hours and have it displayed in no time at all when these are available for jobs bookings. 
+
+**roles**
+- create admin panel ui/ux, structure and functionality for all taps.
+- create website ui/ux, structure and functionality for all pages.
+
+**front-end technologies**
+- html, css, sass, bootstrap, php smarty and js.
 
 ### [subscription](https://laravel.dev.tecsee.de/)
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry
+**description**
+- this plugin will allow you to sell subscriptions products..
+- the plugin can be setup to sell only subscriptions.
+- subscription with no recurring times (subscription that will continue to recur until canceled).
+- a subscription that will recur for a specific number of installments.
+- you can sell subscriptions in terms of a set number of days, months, or years.
+
+**roles**
+- create admin panel ui/ux, structure and functionality for all taps.
+- create website ui/ux, structure and functionality for all pages.
+
+**front-end technologies**
+- html, css, sass, bootstrap, php smarty and js.
+
+### [Calendar](https://laravel.dev.tecsee.de/)
+**description**
+- Create, manage and share your events easily.
+- Increase the user-friendliness of your JTL shop now with the clear event display. 
+- With our JTLEventCalendar plug-in you can create, change and delete your events in the backend as often as you like. 
+- Using the built-in event creation form, you can quickly add and update your events.
+
+Use the JTLEventCalendar plug-in now to improve your online presence and draw attention to your events!
+
+**roles**
+- create admin panel ui/ux, structure and functionality for all taps.
+- create website ui/ux, structure and functionality for all pages.
+
+**front-end technologies**
+- html, css, sass, bootstrap, php smarty and js.
 
 <div id="user-content-toc">
   <ul>
