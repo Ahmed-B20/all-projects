@@ -88,7 +88,7 @@
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 appointments](http://appointments.dev.tecsee.de/)
+### [🎯 appointments](https://appointments.dev.tecsee.de/)
 
 **description**
 - TecseeAppointments is a JTL Shop Plugin used to create a booking system for on-site appointment bookings.
@@ -191,7 +191,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 sports](http://sports.dev.tecsee.de/)
+### [🎯 sports](https://sports.dev.tecsee.de/)
 
 **description**
 
@@ -206,7 +206,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 Cartons e-commerce](http://kartons-temp.dev.tecsee.de/)
+### [🎯 Cartons e-commerce](https://kartons-temp.dev.tecsee.de/)
 
 **description**
 - "Cartons-e-commerce" is a modern and clear template for Cartons online shop for, which is equally suitable for all industries.
@@ -242,7 +242,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 stationary e-commerce](http://stationary-e-commerce.dev.tecsee.de/)
+### [🎯 stationary e-commerce](https://stationary-e-commerce.dev.tecsee.de/)
 
 **description**
 - "stationary-e-commerce" is a modern and clear template for stationary online shop, which is equally suitable for all industries.
