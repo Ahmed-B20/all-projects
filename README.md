@@ -1,6 +1,22 @@
+# [Bevatel](https://www.bevatel.com/)
+
+** Mar 2023 - Present **
+
+## 💻 Job Roles:
+
+1. Implement Front-End File Structure for Projects(Vuejs + Native).
+2. Integrate With Back-End API and WebSocket.
+3. Implement Figma and Illustrator Ui/Ux Design files to Websites
+4. Implement Front-End Website using Vuejs and Native.
+5. Troubleshoot and Fix Websites.
+
+# 📝 Projects
+
+# ---------------------------------------------------------------------
+
 # [Tecsee](https://tecsee.de/en/)
 
-**From 1/11/2021 - present**
+** Nov 2021 - Mar 2023 **
 
 ## 💻 Job Roles:
 
