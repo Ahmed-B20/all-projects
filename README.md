@@ -12,7 +12,7 @@
 
 # 📝 Projects
 
-### [Cloud Call Center](https://www.bevatel.com/cloud-call-center)
+### [🎯 Cloud Call Center](https://www.bevatel.com/cloud-call-center)
 
 **roles**
 - Implement Front-End File Structure for Projects.
@@ -23,7 +23,7 @@
 - Vuejs. 
 - Vuetifyjs.
 
-### [IFood](https://food-website.ocodaserver.com/##/home)
+### [🎯 IFood](https://food-website.ocodaserver.com/##/home)
 
 **roles**
 - Implement Design for Website.
@@ -34,7 +34,7 @@
 - Vuejs. 
 - Vuetifyjs.
 
-### [Allivin](https://allivin.com/)
+### [🎯 Allivin](https://allivin.com/)
 
 **roles**
 - Implement Design files to Website
@@ -49,7 +49,7 @@
 - Sass
 - Js + Jquery
 
-### [Hojuzat](https://www.hojuzat.com/)
+### [🎯 Hojuzat](https://www.hojuzat.com/)
 
 **roles**
 - Implement Figma Ui/Ux Design files to Website
@@ -62,7 +62,7 @@
 - Sass
 - Js + Jquery
 
-# ------------------------------------------------------------------------------
+# --------------------------------------------------------------
 
 # [Tecsee](https://tecsee.de/en/)
 
