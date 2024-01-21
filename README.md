@@ -62,7 +62,7 @@
 - Sass
 - Js + Jquery
 
-<h2 style="text-align: center;">-------------------------------</p>
+<h2 style="text-align: center;">-------------------------------</h2>
 
 # [Tecsee](https://tecsee.de/en/)
 
