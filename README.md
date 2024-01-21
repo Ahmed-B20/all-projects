@@ -12,6 +12,56 @@
 
 # 📝 Projects
 
+### [Cloud Call Center](https://www.bevatel.com/cloud-call-center)
+
+**roles**
+- Implement Front-End File Structure for Projects.
+- Integrate With Back-End API and WebSocket.
+- Implement Figma Ui/Ux Design files to Website
+
+**front-end technologies**
+- Vuejs. 
+- Vuetifyjs.
+
+### [IFood](https://food-website.ocodaserver.com/##/home)
+
+**roles**
+- Implement Design for Website.
+- Troubleshoot and Fix Website.
+- Integrate With Back-End API.
+
+**front-end technologies**
+- Vuejs. 
+- Vuetifyjs.
+
+### [Allivin](https://allivin.com/)
+
+**roles**
+- Implement Design files to Website
+- Troubleshoot and Fix Website
+- Integrate With Back-End API.
+- Implement Functionality of E-Commerce.
+- Implement Modboard for E-Commerce Products.
+
+**front-end technologies**
+- Html
+- Css
+- Sass
+- Js + Jquery
+
+### [Hojuzat](https://www.hojuzat.com/)
+
+**roles**
+- Implement Figma Ui/Ux Design files to Website
+- Integrate With Back-End API.
+- Implement Functionality of Booking System.
+
+**front-end technologies**
+- Html
+- Css
+- Sass
+- Js + Jquery
+
 # ------------------------------------------------------------------------------
 
 # [Tecsee](https://tecsee.de/en/)
