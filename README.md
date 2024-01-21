@@ -62,8 +62,6 @@
 - Sass
 - Js + Jquery
 
-<h2 style="text-align: center;">-------------------------------</h2>
-
 # [Tecsee](https://tecsee.de/en/)
 
 ** Nov 2021 - Mar 2023 **
