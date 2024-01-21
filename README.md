@@ -167,7 +167,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
   </ul>
 </div>
 
-### [🎯 cars e-commerce](https://cars-e-commerce.dev.tecsee.de/)
+### [🎯 cars e-commerce](https://car.alfa-software.com/)
 
 **description**
 - "cars-e-commerce" is a modern and clear template for cars and cars tools online shop for, which is equally suitable for all industries.
@@ -179,7 +179,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 home e-commerce](https://home-e-commerce.dev.tecsee.de/)
+### [🎯 home e-commerce](https://home.alfa-software.com/)
 
 **description**
 - "home-e-commerce" is a modern and clear template for home tools online shop for, which is equally suitable for all industries.
@@ -191,7 +191,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 sports](https://sports.dev.tecsee.de/)
+### [🎯 sports](https://sports.alfa-software.com/)
 
 **description**
 
@@ -206,7 +206,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 Cartons e-commerce](https://kartons-temp.dev.tecsee.de/)
+### [🎯 Cartons e-commerce](https://cardboard.alfa-software.com/)
 
 **description**
 - "Cartons-e-commerce" is a modern and clear template for Cartons online shop for, which is equally suitable for all industries.
@@ -218,7 +218,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 chairs e-commerce](https://shopware-home-theme.dev.tecsee.de/)
+### [🎯 chairs e-commerce](https://furniture.alfa-software.com/)
 
 **description**
 - "furniture-e-commerce" is a modern and clear template for furniture online shop for shopware, which is equally suitable for all industries.
@@ -230,7 +230,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 sport e-commerce](https://sport-e-commerce.dev.tecsee.de/)
+### [🎯 sport e-commerce](https://sports-tools.alfa-software.com/)
 
 **description**
 - "sport-e-commerce" is a modern and clear template for sports tools online shop, which is equally suitable for all industries.
@@ -242,7 +242,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 stationary e-commerce](https://stationary-e-commerce.dev.tecsee.de/)
+### [🎯 stationary e-commerce](https://stationary.alfa-software.com/)
 
 **description**
 - "stationary-e-commerce" is a modern and clear template for stationary online shop, which is equally suitable for all industries.
@@ -254,7 +254,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 shoes e-commerce](https://template8.wawihost.de/)
+### [🎯 shoes e-commerce](https://shoes.alfa-software.com/)
 
 **description**
 - "shoes" is a modern and clear template for shoes online shop, which is equally suitable for all industries.
@@ -266,7 +266,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 furniture e-commerce](https://template7.wawihost.de/)
+### [🎯 restaurant e-commerce](https://restaurant.alfa-software.com/)
 
 **description**
 - "furniture" is a modern and clear template for furniture online shop, which is equally suitable for all industries.
@@ -278,7 +278,7 @@ Use the JTLEventCalendar plug-in now to improve your online presence and draw at
 **front-end technologies**
 - html, css, sass, bootstrap, php smarty and js.
 
-### [🎯 ceramic](https://radany.de/)
+### [🎯 ceramic](https://granite.alfa-software.com/)
 
 **description**
 - "ceramic" is a modern and clear template for ceramic online shop, which is equally suitable for all industries.
