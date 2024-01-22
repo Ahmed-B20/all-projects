@@ -1,6 +1,6 @@
 # [Bevatel](https://www.bevatel.com/)
 
-** Mar 2023 - Present **
+**Mar 2023 - Present**
 
 ## 💻 Job Roles:
 
@@ -64,7 +64,7 @@
 
 # [Tecsee](https://tecsee.de/en/)
 
-** Nov 2021 - Mar 2023 **
+**Nov 2021 - Mar 2023**
 
 ## 💻 Job Roles:
 
